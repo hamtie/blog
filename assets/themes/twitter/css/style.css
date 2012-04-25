@@ -68,4 +68,20 @@ html, body {
 	border:1px solid #4C964D;
 	color:#FFF;
 }
-	
+
+
+/*****************************************************************************/
+/*
+/* Customizations Start Here
+/*
+/*****************************************************************************/
+
+ul.posts span {
+    color: #aaa;
+    font-family: Monaco, "Courier New", monospace;
+    font-size: 85%;
+}
+
+h3.posts-title  {
+    color:  #CD1076;
+}
