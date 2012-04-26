@@ -1,7 +1,7 @@
 ---
 layout: post
 category: about me
-tags: [github jekyll]
+tags: [github, jekyll]
 ---
 {% include JB/setup %}
 
