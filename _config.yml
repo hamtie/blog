@@ -9,7 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : foo-WES-no
+title : hanelifou
+domain : http://hanelifou.com
 author :
   name : Hannah Fouasnon
   email : hanelifou@gmail.com
@@ -24,7 +25,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://hanelifou.com
+production_url : http://hanelifou.com/blog
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
