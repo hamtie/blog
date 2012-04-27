@@ -70,8 +70,8 @@ JB :
   # Some JB helpers refer to these paths; change theme here if needed.
   #
   blog_path: /index.html
-  categories_path : /ycategories.html
-  tags_path : /ztags.html
+  categories_path : /categories.html
+  tags_path : /tags.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
