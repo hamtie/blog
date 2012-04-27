@@ -77,7 +77,7 @@ html, body {
 /*****************************************************************************/
 
 ul.posts span {
-    color: #aaa;
+    color: #444;
     font-family: Monaco, "Courier New", monospace;
     font-size: 85%;
 }
@@ -86,3 +86,14 @@ h3.posts-title  {
     color:  #CD1076;
 }
 
+.sidebar {
+ position: fixed;
+ left: 25px;
+ top: 125px; /* change to adjust height from the top of the page */
+}
+
+.pagination {
+ position: fixed;
+ left: 35px;
+ top: 50px; /* change to adjust height from the top of the page */
+}

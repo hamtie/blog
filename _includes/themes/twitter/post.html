@@ -5,7 +5,6 @@
 <div class="row">
   <div class="span8">
     {{ content }}
-    <hr>
     <div class="pagination">
       <ul>
       {% if page.previous %}
@@ -13,7 +12,6 @@
       {% else %}
         <li class="prev disabled"><a>&larr; Previous</a></li>
       {% endif %}
-        <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
       {% if page.next %}
         <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
       {% else %}
@@ -26,6 +24,8 @@
   </div>
   
   <div class="span4">
+    {% include custom/sharing %} <br \>
+
     <h4>Published</h4>
     <div class="date"><span>{{ page.date | date_to_long_string }}</span></div>
 
