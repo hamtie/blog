@@ -13,7 +13,7 @@ to discuss current legislation, investigate government activities,
 or simply explore a topic of interest. 
 
   I became aware of this dataset after scraping the presidential remarks
-from the GPO site for my previous job [@luckysort](luckysort.com),
+from the GPO site for my previous job [@luckysort](http://luckysort.com),
 a text analytics company in Portland, OR.  When I saw the
 hearings dataset, I recalled Stephen Colbert's expert testimony for [House Hearing, 111th Congress - Protecting America's
 Harvest](http://www.gpo.gov/fdsys/pkg/CHRG-111hhrg58410/html/CHRG-111hhrg58410.htm). 
@@ -41,5 +41,5 @@ work on the first part.
   That's as far as I've gotten for now, but more updates to come! Feel free to send me ideas or things you would like to see done.
 Also, I might try to sell analytics or even an
 api-friendly version of the raw data. Contact me if you're interested and want to know more. My email can be
-found on my [resume]( hanelifou.com/resume).
+found on my [resume](http://hanelifou.com/resume).
 
