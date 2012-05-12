@@ -28,9 +28,8 @@ pdfs. It covers the 99th-112th Congress (1985-2012).  The 99th-104th
 Congress appear to be less complete than the later ones. It took about two weeks to collect, primarily due to frequent
 timeouts and possibly ratelimiting from the gpo end.  My primary
 interest is with the plain text data; I plan to employ natural
-language processing algorithms, such as entity extraction, to analyze
-the corpus. At some point, I may extract the graphics that are only available in the
-pdf to include in an interface.
+language processing algorithms, such as entity extraction. At some point, I may extract the graphics that are only available in the
+pdf to include in a more exploratory interface.
 
   For my first pass on the dataset, I plan to index the documents by
   the entities they contain (e.g. corporations, senators, witnesses, etc). The first interface will probably just be a simple search
@@ -40,8 +39,7 @@ relationships within the corpus.  This idea will probably evolve as I
 work on the first part.  
 
   That's as far as I've gotten for now, but more updates to come! Feel free to send me ideas or things you would like to see done.
-Also, I might try to sell analytics or even the
-api-friendly versions of the raw data on some data platform or just
-independently. Contact me if you want to know more. My email can be
+Also, I might try to sell analytics or even an
+api-friendly version of the raw data. Contact me if you're interested and want to know more. My email can be
 found on my [resume]( hanelifou.com/resume).
 
