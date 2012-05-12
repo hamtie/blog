@@ -24,11 +24,17 @@ they provide. What is their affiliation with the committee, committee
 members, and topic of discussion?
 Are they academics? Do they represent a corporate interest? etc. 
 
-  Having worked with standard language processing techniques, this
-seemed like an opportune time to use entity extraction on the
-corpus. For my first pass on the dataset, I'm working on indexing the documents by entity and
-putting a search engine on top of it.  For my second iteration, I
-would like to incorporate other datasets, like campaign finance data,
+  The dataset ended up being 66gb including the text, metadata, and
+pdfs.  I'm primarily interested in the text data and plan on using
+standard language processing algorithms to analyze it.  The
+hearings frequently include graphics that are only available in the
+pdf, so I decided to go ahead and grab that in case I want to use it
+in an interface later.  
+
+  For my first pass on the dataset, I plan on using entity extraction
+to grab words of interest, and then I'll index the documents with the
+results. The first interface will probably just be a simple search
+engine. For my second iteration, I would like to incorporate other datasets, like campaign finance data,
 and start doing network visualizations.  Or perhaps simply extract network
 relationships within the corpus.  This idea will probably evolve as I
 work on the first part.  
