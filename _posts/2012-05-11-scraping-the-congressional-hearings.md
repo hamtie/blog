@@ -28,7 +28,7 @@ pdfs. It covers the 99th-112th Congress (1985-2012).  The 99th-104th
 Congress appear to be less complete than the later ones. It took about two weeks to collect, primarily due to frequent
 timeouts and possibly ratelimiting from the gpo end.  My primary
 interest is with the plain text data; I plan to employ natural
-language processing algorithms, such as entity extraction. At some point, I may extract the graphics that are only available in the
+language processing algorithms to analyze it, such as entity extraction. At some point, I may extract the graphics that are only available in the
 pdf to include in a more exploratory interface.
 
   For my first pass on the dataset, I plan to index the documents by
