@@ -22,8 +22,9 @@ their affiliation with the committee, committee
 members, and topic of discussion.
 Are they academics? Do they represent a corporate interest? etc. 
 
-  The dataset ended up being 66gb including the text, metadata, and
-pdfs. It covers the 99th-102th Congress (1985-2012).  The 99th-104th
+  Having more free time lately, I revisited this idea and started to
+  collect the data for analysis. The dataset ended up being 66gb including the text, metadata, and
+pdfs. It covers the 99th-112th Congress (1985-2012).  The 99th-104th
 Congress appear to be less complete than the later ones. It took about two weeks to collect, primarily due to frequent
 timeouts and possibly ratelimiting from the gpo end.  My primary
 interest is with the plain text data; I plan to employ natural
